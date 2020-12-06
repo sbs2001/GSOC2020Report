@@ -5,7 +5,7 @@
 ## Project Title : Enhancement of VulnerableCode
 
 **Quick primer on VulnerableCode**
-VulnerableCode is Django project which aggregates data about software vulnerabilities from multiple sources and transforms it into an easy to use format.
+VulnerableCode is Django project which aggregates data about software vulnerabilities from multiple sources and transforms it into an easy to use format. See [VulnerableCode GSoC Page](https://summerofcode.withgoogle.com/archive/2020/projects/5367054590279680/) for more details.
 
 **Things acheived in GSoC**
 
