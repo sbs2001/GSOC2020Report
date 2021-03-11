@@ -9,6 +9,8 @@ VulnerableCode is Django project which aggregates data about software vulnerabil
 
 **Things acheived in GSoC**
 
+[Proposal Link](https://docs.google.com/document/d/1Dff6u0gVGZncBbJo2R55FG-ZNMb1fLcQJZbxwVKtuDs/edit?usp=sharing)
+
 1.  Implemented a OVAL document parser. During this task I noticed that the element lookup method used in CIS's implementation was unusually slow. After some tweaks and algorithmic changes over 600% increase in performance was acheived. The improved implementation is now used by CIS. 
 **Related PRs :**
     - [PR at CIS](https://github.com/CISecurity/OVALRepo/pull/1820) . 
